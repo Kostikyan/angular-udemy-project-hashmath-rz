@@ -1,4 +1,4 @@
 # angular-udemy-project-hashmath-rz
- Final Angular Project
-ang-blog-app: Angular Front-end
-ang-blog-dashboard: Angular Back-end and minimum Front-end
+<p>Final Angular Project</p>
+ang-blog-app: Angular Front-end <br>
+ang-blog-dashboard: Angular Back-end and minimum Front-end <br>
